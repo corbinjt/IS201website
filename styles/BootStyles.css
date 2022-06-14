@@ -1,0 +1,144 @@
+body{
+    background-color: blanchedalmond;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif }
+    
+
+.common{
+    position: absolute;
+}
+
+
+
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 45px;
+    z-index: 5;
+    border: solid 2px #555555;
+    background-color: lightsteelblue;
+    text-align:right;
+    padding-top: 25px;
+    padding-right: 15px;
+    margin-bottom: 20px;
+
+}
+    
+
+.mainbody{
+    top: 118px;
+    height:fit-content;
+    bottom: 64px;
+    left: 20px;
+    right: 20px;
+    background-color: slategray;}
+
+.firstchart{
+    top: 5px;
+    left: 0px;
+    right: 100px;
+   width: 400px;
+   height: 250px;
+    }
+
+.secondchart{
+        top: 0px;
+        left: 0px;
+        right: 100px;
+       width: 500px;
+       height: 250px;
+        }
+
+.thirdchart{
+    top: 0px;
+    left: 0px;
+    right: 100px;
+   width: 500px;
+   height: 250px;
+    }
+
+.fourthchart{
+    top: 0px;
+    left: 0px;
+    right: 100px;
+   width: 500px;
+   height: 250px;
+    }
+
+
+
+.footer{
+    bottom: 5px;
+    height: 30px;
+    left: 5px;
+    right: 5px;
+    font-size: 16px;
+    color: black;
+    text-align: center;
+    position: fixed;
+    background-color: lightsteelblue;
+    border:solid 2px #555555;
+    padding-top:10px} 
+
+.subheader{
+    float: right;
+}
+
+.headerchange{text-align: center; margin-left: auto; margin-right: auto; display: block; position: relative;}
+
+.firstcaption{ top: 90px;
+    left: 20px;
+    right: 20px;
+    height: 45px;
+    z-index: 5;
+    border: solid 2px #555555;
+    background-color: black;
+    text-align:right;
+    padding-top: 25px;
+    padding-right: 15px;
+    z-index: 50;
+    color: white;
+    text-align: center;}
+
+.secondcaption{ top: 200px;
+        left: 20px;
+        right: 20px;
+        height: 45px;
+        z-index: 5;
+        border: solid 2px #555555;
+        background-color: black;
+        text-align:right;
+        padding-top: 25px;
+        padding-right: 15px;
+        z-index: 50;
+        color: white;
+        text-align: center;}
+
+.thirdcaption{ top: 200px;
+            left: 20px;
+            right: 20px;
+            height: 45px;
+            z-index: 5;
+            border: solid 2px #555555;
+            background-color: black;
+            text-align:right;
+            padding-top: 25px;
+            padding-right: 15px;
+            z-index: 50;
+            color: white;
+            text-align: center;}
+
+.fourthcaption{top: 200px;
+    left: 20px;
+    right: 20px;
+    height: 45px;
+    z-index: 5;
+    border: solid 2px #555555;
+    background-color: black;
+    text-align:right;
+    padding-top: 25px;
+    padding-right: 15px;
+    z-index: 50;
+    color: white;
+    text-align: center;}
+    

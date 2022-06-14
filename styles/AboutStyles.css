@@ -1,0 +1,40 @@
+li {font-size: medium;}
+
+.headers {font-size: x-large; text-decoration: underline;}
+
+.bgcolorabout {background-color: blanchedalmond}
+
+.video {margin-left: 0px; margin-left: 320px; display: block; position: relative; text-align: center;}
+
+.hobbies {text-align: center; position: relative; 
+        margin-left: auto; margin-right: auto; display: block; 
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        text-decoration: underline;}
+
+.surflink {color: blue; text-decoration: underline;}
+
+.surfalign {text-align: center; position: relative; 
+    margin-left: auto; margin-right: auto; display: block; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+
+ h1{
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: blanchedalmond;
+        font-size: 40px;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+ }
+
+ .h1font {font-size: 65px;}
+
+.hiking {height: 250px;}
+
+.boardgame {height: 275px; margin-left: auto; margin-left: auto; position: relative; text-align: center;}
+
+.football {height: 250px;}
+
+.threeimages {margin-left: auto; margin-left: auto; position: relative; text-align: center; display: block;}
+
+body {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
